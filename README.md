@@ -6,8 +6,6 @@
   
 Time Series Forecasting with *KPMG*
 
-July 2024
-
-</div>
+July 2024  </div>
 
 
