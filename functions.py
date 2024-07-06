@@ -1,7 +1,7 @@
 
 import pandas as pd
 
-def build_test_set(one_serie):
+def build_test_set(one_serie, compute_features):
 
   last_date = one_serie.index.max()
 
