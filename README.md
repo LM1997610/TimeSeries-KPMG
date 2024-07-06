@@ -1,10 +1,7 @@
-<div align="center">
 
-<strong style="font-size: :0.9em;">Sapienza Training Camp</strong>
-
-<p style="font-size: 20px;">Time Series Forecasting with <em>KPMG</em></p>
-
-<p style="font-size: 20px;">July 2024</p>
+<h1><center> **Sapienza Training Camp** </center></h1>
+<h2><center> Time Series Forecasting with *KPMG* </center></h2>
+<h4><center> July 2024 </center></h4>
 
 </div>
 
