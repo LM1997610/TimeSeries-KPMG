@@ -44,7 +44,7 @@ def prediction_plot(this_serie, this_pred, this_serie_name, output_dir = 'plots'
   plt.plot(this_serie['volume_kg'])
   plt.plot(this_pred['volume_kg'], color='r', marker=".", markersize=7, alpha=0.7)
 
-  plt.title('\n'+serie_names[indx]+'\n')
+  plt.title('\n'+this_serie_name+'\n')
 
   plt.legend(['Truth', 'Predictions'], loc='upper right')
   plt.ylabel('\n volume_kg \n', fontsize=11)
