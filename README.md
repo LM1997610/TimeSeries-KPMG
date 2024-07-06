@@ -17,7 +17,7 @@ Team members:
 
 <br>
 
-**Winners** of the [Kaggle](https://www.kaggle.com/competitions/sapienza-training-camp-forecasting-2024/leaderboard#) competition
+**Winners** of the [Kaggle](https://www.kaggle.com/competitions/sapienza-training-camp-forecasting-2024/leaderboard#) competition !
 
 <img src="https://github.com/LM1997610/TimeSeries-KPMG/blob/main/plots/0_4_0_FOOD%20SERVICE_3_10.png" alt="Img_1" width="75%">
 
