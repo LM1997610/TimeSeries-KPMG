@@ -19,6 +19,8 @@ Team members:
 
 **Winners** of the [Kaggle](https://www.kaggle.com/competitions/sapienza-training-camp-forecasting-2024/leaderboard#) competition
 
+![Alt Text](plots/0_4_0_FOOD SERVICE_3_10.png)
+
 The data comes from a real dataset supplied by [KPMG](https://kpmg.com/it/it/home/insights/2023/03/intelligent-forecasting.html)
 
 The dataset is private, not allowed to share the dataset outside this competition.\
