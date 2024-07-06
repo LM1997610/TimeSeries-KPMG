@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<span style="font-size: 24px;"><strong>Sapienza Training Camp</strong></span>
+<span style="font-size: 74px;"><strong>Sapienza Training Camp</strong></span>
 
-<p style="font-size: 20px;">Time Series Forecasting with <em>KPMG</em></p>
+<p style="font-size: 25px;">Time Series Forecasting with <em>KPMG</em></p>
 
 <p style="font-size: 20px;">July 2024</p>
 
