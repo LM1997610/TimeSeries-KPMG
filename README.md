@@ -2,7 +2,7 @@
 
 <div> 
   
-  **Sapienza Training Camp** - Time Series Forecasting with *KPMG* - July 2024  </div>
+  **Sapienza Training Camp** - *Time Series Forecasting* with *KPMG* - July 2024  </div>
 
 <br>
 
@@ -24,6 +24,8 @@ The data comes from a real dataset supplied by [KPMG](https://kpmg.com/it/it/hom
 The dataset is private, not allowed to share the dataset outside this competition.\
 The dataset describes snacks sold in Northern Europe, the **target is to predict the volume sold in the next 4 months**.\
 The dataset is composed of 48 individual time series.
+
+Kaggle submission are evaluated using a score based on MAPE (Mean Absolute Percentage Error)
 
 
 
