@@ -1,4 +1,5 @@
 
+import os 
 import pandas as pd
 
 def build_test_set(one_serie, compute_features):
