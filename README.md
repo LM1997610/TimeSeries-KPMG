@@ -1,6 +1,6 @@
 <div align="center">
 
-<strong style="font-size: 24px;">Sapienza Training Camp</strong>
+<strong style="font-size: :0.9em;">Sapienza Training Camp</strong>
 
 <p style="font-size: 20px;">Time Series Forecasting with <em>KPMG</em></p>
 
@@ -9,8 +9,6 @@
 </div>
 
 Group name: &ensp; **`Ki Programma Male Group`**
-
-<span style="font-size:0.9em;">Text goes here</span>
 
 Team members:
 
