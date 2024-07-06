@@ -15,7 +15,7 @@ def build_test_set(one_serie, compute_features):
  
 
 
-def save_results(datadict, filename, output_dir='submissions/'):
+def parse_and_save_results(datadict, filename, output_dir='submissions/', save=True):
 
   results_df = pd.DataFrame(datadict)
 
@@ -27,10 +27,9 @@ def save_results(datadict, filename, output_dir='submissions/'):
   results_df = results_df.drop(columns=cols_to_drop)
   results_df['volume_kg']  = volumes 
 
-  if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
-    
-  results_df.to_csv(output_dir+f'{filename}.csv', index=False)
+  if save == True:
+    if not os.path.exists(output_dir): os.makedirs(output_dir)
+    results_df.to_csv(output_dir+f'{filename}.csv', index=False)
 
   print(f'>> Saved {filename+".csv":>21} - shape: {results_df.shape} - {list(results_df.columns)}')
 
