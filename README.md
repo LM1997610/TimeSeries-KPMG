@@ -10,7 +10,7 @@
 
 Group name: &ensp; **`Ki Programma Male Group`**
 
-<span style="font-size:0.5em;">Text goes here</span>
+<span style="font-size:0.9em;">Text goes here</span>
 
 Team members:
 
