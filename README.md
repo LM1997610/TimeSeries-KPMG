@@ -2,7 +2,7 @@
 
 <div> 
   
-  **Sapienza [Training Camp](https://corsidilaurea.uniroma1.it/it/node/2649318)** - *Time Series Forecasting* with *KPMG* - July 2024  </div>
+  **[Sapienza Training Camp](https://corsidilaurea.uniroma1.it/it/node/2649318)** - *Time Series Forecasting* with *KPMG* - July 2024  </div>
 
 <br>
 
