@@ -40,11 +40,11 @@ def prediction_plot(this_serie, this_pred, this_serie_name, output_dir = 'plots'
   plt.figure(figsize=(8, 3.5))
 
   plt.plot(this_serie['volume_kg'])
-  plt.plot(this_pred['volume_kg'], color='r', marker=".", markersize=7, alpha=0.7)
+  plt.plot(this_pred['volume_kg'], '--', color='r', marker=".", markersize=7, alpha=0.7,)
 
   plt.title('\n'+this_serie_name+'\n')
 
-  plt.legend(['Truth', 'Predictions'], loc='upper right')
+  plt.legend(['Truth', 'Predictions'], loc='best')
   plt.ylabel('\n volume_kg \n', fontsize=11)
 
   plt.grid('-', alpha=0.5)
