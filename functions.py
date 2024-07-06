@@ -1,30 +1,6 @@
 
 import pandas as pd
 
-#########################
-def compute_features(df):
-
-    df = df.copy()
-    df['year'] = df.index.year
-    df['dayofyear'] = df.index.dayofyear
-    df['quarter'] = df.index.quarter
-    df['semester'] = np.where(df['quarter'] > 2,2,1)
-    df['month'] = df.index.month
-
-    return df
-    #########
-
-##################################################################
-def split_train_test(la_mia_serie, date_of_division = '2020-04-01'):
-
-  train = la_mia_serie.loc[la_mia_serie.index < date_of_division]
-  test = la_mia_serie.loc[la_mia_serie.index >= date_of_division]
-
-  return train, test
-  ##################
-
-
-#########################################
 def build_test_set(one_serie):
 
   last_date = one_serie.index.max()
@@ -34,10 +10,9 @@ def build_test_set(one_serie):
   new_data = new_data.set_index('date')
   
   return compute_features(new_data)
-  ##################################
+ 
 
 
-#########################################
 def save_results(datadict, filename):
 
   results_df = pd.DataFrame(datadict)
@@ -55,5 +30,3 @@ def save_results(datadict, filename):
   print(f'>> Saved {filename+".csv":>21} - shape: {results_df.shape} - {list(results_df.columns)}')
 
   return results_df
-  ##################
-
