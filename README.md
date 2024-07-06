@@ -1,11 +1,11 @@
 
+<div >
 
-  
 **Sapienza Training Camp**
-  
 Time Series Forecasting with *KPMG*
-
 July 2024 
+
+</div>
 
 Group name: &ensp; **`Ki Programma Male Group`**
 
