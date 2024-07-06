@@ -1,6 +1,7 @@
 
 import os 
 import pandas as pd
+import matplotlib.pyplot as plt
 
 def build_test_set(one_serie, compute_features):
 
@@ -29,7 +30,7 @@ def save_results(datadict, filename, output_dir='submissions/'):
   if not os.path.exists(output_dir):
     os.makedirs(output_dir)
     
-  results_df.to_csv(f'output_dir+{filename}.csv', index=False)
+  results_df.to_csv(output_dir+f'{filename}.csv', index=False)
 
   print(f'>> Saved {filename+".csv":>21} - shape: {results_df.shape} - {list(results_df.columns)}')
 
