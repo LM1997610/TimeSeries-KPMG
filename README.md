@@ -19,8 +19,9 @@ Team members:
 
 **Winners** of the [Kaggle](https://www.kaggle.com/competitions/sapienza-training-camp-forecasting-2024/leaderboard#) competition
 
-![Alt Text](https://github.com/LM1997610/TimeSeries-KPMG/blob/main/plots/0_4_0_FOOD%20SERVICE_3_10.png)
+![Img_1](https://github.com/LM1997610/TimeSeries-KPMG/blob/main/plots/0_4_0_FOOD%20SERVICE_3_10.png)
 
+![Img_2](https://github.com/LM1997610/TimeSeries-KPMG/blob/main/plots/1_11_2_MODERN TRADE_2_10.png)
 
 The data comes from a real dataset supplied by [KPMG](https://kpmg.com/it/it/home/insights/2023/03/intelligent-forecasting.html)
 
