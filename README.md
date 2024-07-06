@@ -1,12 +1,14 @@
 # TimeSeries-KPMG
 
 <div align="center">
-  
-**Sapienza Training Camp**
-  
-Time Series Forecasting with *KPMG*
 
-July 2024  </div>
+<span style="font-size: 24px;"><strong>Sapienza Training Camp</strong></span>
+
+<p style="font-size: 20px;">Time Series Forecasting with <em>KPMG</em></p>
+
+<p style="font-size: 20px;">July 2024</p>
+
+</div>
 
 Group name: &ensp; **`Ki Programma Male Group`**
 
