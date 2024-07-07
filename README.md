@@ -28,7 +28,7 @@ Main content in [KPMG_main.ipynb](https://nbviewer.org/github/LM1997610/TimeSeri
 The data comes from a real dataset supplied by [KPMG](https://kpmg.com/it/it/home/insights/2023/03/intelligent-forecasting.html)
 
 The dataset is private, not allowed to share the dataset outside this competition.\
-The dataset describes snacks sold in Northern Europe, the **target is to predict the volume sold in the next 4 months**.\
+It describes snacks sold in Northern Europe, the **target is to predict the volume sold in the next 4 months**.\
 The dataset is composed of 48 individual time series.
 
 Kaggle submission are evaluated using a score based on MAPE (Mean Absolute Percentage Error)
