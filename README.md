@@ -10,8 +10,8 @@ Group name: &ensp; **`Ki Programma Male Group`**
 
 Team members:
 
-- Lucia Dicunta: 2037075
 - Ioan Corrias: 2079420
+- Lucia Dicunta: 2037075
 - Luca Mazzucco: 1997610
 - Cosmin Madalin Zaharia: 1805207
 
